@@ -1,1 +1,9 @@
 /node_modules
+
+yarn-error\.log
+
+\.expo/settings\.json
+
+\.expo/packager-info\.json
+
+yarn\.lock

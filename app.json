@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "freebies/RocketButton",
+    "description": "Animated click icon button",
+    "slug": "freebiesrocketbutton",
+    "privacy": "public",
+    "sdkVersion": "29.0.0",
+    "orientation": "portrait",
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4"
+      ]
+    },
+    "version": "1.0.0",
+    "githubUrl": "https://github.com/ApplikeySolutions/RocketButton"
+  }
+}
